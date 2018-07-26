@@ -8,6 +8,8 @@ When you run the scripted installation, the server is installed and started as d
 
 Installing the Ansible Prerequisite
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**NOTE:** Ansible engine has been `deprecated <https://access.redhat.com/articles/3359651>`_ from the `Extras <https://access.redhat.com/solutions/912213>`_ (``rhel-7-server-extras-rpms``) repository.  Please install the latest release  following the instructions below.
+
 Prepare the system to install the software by installing Ansible. For more information, see the `Ansible installation documentation <http://docs.ansible.com/ansible/latest/intro_installation.html#installing-the-control-machine>`_.
 
 Obtaining the Installer
